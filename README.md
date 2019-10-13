@@ -1,2 +1,3 @@
 # E-portfolio
-Mon e-portfolio retraçant toute mes réalisations
+
+Ce repertoire contient mon e-portfolio développé avec Angular
